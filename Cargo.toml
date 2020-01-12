@@ -23,3 +23,7 @@ path = "src/writer/network.rs"
 [[bin]]
 name = "http_server"
 path = "src/writer/http_server.rs"
+
+[[bin]]
+name = "reader_file"
+path = "src/reader/file.rs"
