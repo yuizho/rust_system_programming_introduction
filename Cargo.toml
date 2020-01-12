@@ -15,3 +15,7 @@ path = "src/writer/file.rs"
 [[bin]]
 name = "writer_stdout"
 path = "src/writer/stdout.rs"
+
+[[bin]]
+name = "writer_network"
+path = "src/writer/network.rs"
