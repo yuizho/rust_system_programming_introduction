@@ -19,3 +19,7 @@ path = "src/writer/stdout.rs"
 [[bin]]
 name = "writer_network"
 path = "src/writer/network.rs"
+
+[[bin]]
+name = "http_server"
+path = "src/writer/http_server.rs"
