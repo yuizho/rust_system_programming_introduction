@@ -27,3 +27,7 @@ path = "src/writer/http_server.rs"
 [[bin]]
 name = "reader_file"
 path = "src/reader/file.rs"
+
+[[bin]]
+name = "copy"
+path = "src/reader/copy.rs"
